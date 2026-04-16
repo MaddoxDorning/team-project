@@ -78,7 +78,7 @@
   },
   {
     "name": "Screenshot",
-    "keystroke": "Win + Shift + F",
+    "keystroke": "Win + Shift + S",
     "use": "Capture screenshot",
     "tool": "Windows Operating System",
     "author": "Maddox Dorning"
