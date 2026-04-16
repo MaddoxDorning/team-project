@@ -1,65 +1,142 @@
 [
   {
     "name": "Screenshot",
-    "keystroke": "Windows + Shift + S",
-    "use": "Screenshot selected area on screen",
+    "keystroke": "Windows + PrintScreen",
+    "use": "Screenshot all visible screens",
+    "tool": "Windows Operating System",
+    "author": "Jasmine Morgan"
+  },
+  {
+    "name": "Paste",
+    "keystroke": "Ctrl + P",
+    "use": "Paste content",
+    "tool": "Windows Operating System",
+    "author": "Carina"
+  },
+  {
+    "name": "Copy",
+    "keystroke": "Ctrl + C",
+    "use": "Copy selected text",
+    "tool": "Windows Operating System",
+    "author": "Anthony Guerrero"
+  },
+  {
+    "name": "Undo",
+    "keystroke": "Ctrl + Z",
+    "use": "Undo previous action",
+    "tool": "Windows Operating System",
+    "author": "AJ Ramsden"
+  },
+  {
+    "name": "Delete Line",
+    "keystroke": "Ctrl + Shift + K",
+    "use": "Delete current line",
+    "tool": "VS Code",
+    "author": "Garett Clark"
+  },
+  {
+    "name": "Find and Replace",
+    "keystroke": "Ctrl + H",
+    "use": "Find and replace text",
+    "tool": "VS Code",
+    "author": "Christian Miller"
+  },
+  {
+    "name": "Select All",
+    "keystroke": "Ctrl + A",
+    "use": "Select all content",
+    "tool": "Windows Operating System",
+    "author": "Stephen Ruelas"
+  },
+  {
+    "name": "Find",
+    "keystroke": "Ctrl + F",
+    "use": "Find text",
+    "tool": "Windows Operating System",
+    "author": "Wansheng Wu"
+  },
+  {
+    "name": "New Tab",
+    "keystroke": "Ctrl + T",
+    "use": "Open new tab",
+    "tool": "Windows Operating System",
+    "author": "Bella"
+  },
+  {
+    "name": "Switch Applications",
+    "keystroke": "Alt + Tab",
+    "use": "Switch between open applications",
+    "tool": "Windows Operating System",
+    "author": "Tylan"
+  },
+  {
+    "name": "Close Window",
+    "keystroke": "Alt + F4",
+    "use": "Close current window",
+    "tool": "Windows Operating System",
+    "author": "Nang"
+  },
+  {
+    "name": "Screenshot",
+    "keystroke": "Win + Shift + F",
+    "use": "Capture screenshot",
     "tool": "Windows Operating System",
     "author": "Maddox Dorning"
   },
   {
     "name": "Screenshot",
-    "keystroke": "Command + Shift + S",
-    "use": "Screenshot selected area on screen",
+    "keystroke": "Cmd + Shift + 4",
+    "use": "Capture selected area",
     "tool": "Mac Operating System",
     "author": "Maddox Dorning"
   },
   {
     "name": "Switch Tabs",
-    "keystroke": "Control + Tab / Control + Shift + Tab",
-    "use": "Move forward/backwards a tab",
+    "keystroke": "Ctrl + Tab / Ctrl + Shift + Tab",
+    "use": "Move between tabs",
     "tool": "Windows Operating System",
     "author": "Mitchell Chaffee"
   },
   {
     "name": "Switch Tabs",
-    "keystroke": "Command + Option + Right / Left",
-    "use": "Move forward/backwards a tab",
+    "keystroke": "Cmd + Option + Arrow",
+    "use": "Move between tabs",
     "tool": "Mac Operating System",
     "author": "Mitchell Chaffee"
   },
   {
-    "name": "Undo",
-    "keystroke": "Control + Z",
-    "use": "Undo previous action",
+    "name": "Special Characters",
+    "keystroke": "Win + .",
+    "use": "Open special characters menu",
     "tool": "Windows Operating System",
-    "author": "AJ Ramsden"
-  },
-  {
-    "name": "Undo",
-    "keystroke": "Command + Z",
-    "use": "Undo previous action",
-    "tool": "Mac Operating System",
-    "author": "AJ Ramsden"
-  },
-  {
-    "name": "Create getters and setters shortcut",
-    "keystroke": "Alt + Shift + S, then + R",
-    "use": "Creating getters and setters in Eclipse",
-    "tool": "Eclipse",
-    "author": "Eric Staggs"
-  },
-  {
-    "name": "Create getters and setters shortcut",
-    "keystroke": "Command + Option + S, then + R",
-    "use": "Creating getters and setters in Eclipse",
-    "tool": "Eclipse",
-    "author": "Eric Staggs"
+    "author": "Reid Kuhlers"
   },
   {
     "name": "Special Characters",
-    "keystroke": "Windows + .",
-    "use": "Gives user access to special characters",
-    "tool": "Windows Operating System",
+    "keystroke": "Control + Command + Space",
+    "use": "Open special characters menu",
+    "tool": "Mac Operating System",
     "author": "Reid Kuhlers"
+  },
+  {
+    "name": "Format Document",
+    "keystroke": "Alt + Shift + F",
+    "use": "Format code",
+    "tool": "VS Code",
+    "author": "Thomas Brakefield"
+  },
+  {
+    "name": "Generate Getters/Setters",
+    "keystroke": "Alt + Shift + S then R",
+    "use": "Generate getters and setters",
+    "tool": "Eclipse",
+    "author": "Eric Staggs"
+  },
+  {
+    "name": "Generate Getters/Setters",
+    "keystroke": "Command + Option + S then R",
+    "use": "Generate getters and setters",
+    "tool": "Eclipse",
+    "author": "Eric Staggs"
   }
 ]

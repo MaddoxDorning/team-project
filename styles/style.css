@@ -1,0 +1,68 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #cecece;
+  margin: 0;
+  padding: 20px;
+}
+
+
+h2 {
+  text-align: center;
+}
+
+input,
+select {
+  padding: 8px;
+  margin: 10px 5px;
+  font-size: 14px;
+}
+
+#results div {
+  max-width: 450px;
+  margin: 10px auto;
+}
+
+#results {
+  margin-top: 20px;
+}
+
+#results div {
+  background-color: rgb(163, 75, 75);
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
+
+#results b {
+  font-size: 16px;
+}
+
+#results i {
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+}
+
+#controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input,
+select {
+  padding: 10px;
+  margin: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+
+#search {
+  width: 250px;
+  background-color: #ffffff;
+}
+
+select {
+  background-color: #e8f0fe;
+  cursor: pointer;
+}
