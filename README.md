@@ -1,4 +1,4 @@
-# team-project
+# Keyboard Shortcuts Finder Team Project
 
 # Team Members
 Maddox Dorning / AJ Ramsden / Mitchell Chaffee
